@@ -7,7 +7,7 @@ All credits to bobashare at https://bbaovanc.com/
 
 All commands will be ran with the structure of 'bobaclient [flag] [flag] [flag] filename.xyz\
 The first flag here is always required, and the second flag is optional for things such as randomized filename.\
-The maximum amount of flags possible is three.\
+The maximum amount of flags possible is three.
 
 Valid flags:
 

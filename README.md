@@ -3,6 +3,8 @@
 Dependencies: zip and curl
 ```
 
+Dependency installation:
+
 ```
 sudo apt install zip curl -y
 ```

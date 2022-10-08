@@ -18,8 +18,9 @@ Start running commands!
 
 
 
+Usage:
 
-
+```
 A simple and lightweight client for bobashare.\
 All credits to bobashare at https://bbaovanc.com/
 
@@ -37,3 +38,4 @@ Valid flags:
 
 Example command: bobaclient u filename.xyz\
 Example command: bobaclient u r filename.xyz
+```

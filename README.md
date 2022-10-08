@@ -21,7 +21,7 @@ Start running commands!
 Usage:
 
 ```
-A simple and lightweight client for bobashare.
+A simple and lightweight CLI client for bobashare.
 All credits to bobashare at https://bbaovanc.com/
 
 All commands will be ran with the structure of 'bobaclient [flag] [flag] [flag] filename.xyz

@@ -6,8 +6,17 @@ Dependencies: zip and curl
 Dependency installation:
 
 ```
-sudo apt install zip curl -y
+Debian: sudo apt install build-essential zip curl -y
+
 ```
+
+Client installation:
+```
+Compile with gcc bobaclient.c -o bobaclient
+Place generated binary in /usr/local/bin
+Start running commands!
+```
+
 
 
 bobaclient binary should be placed in PATH to be executed.

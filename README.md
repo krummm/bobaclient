@@ -11,8 +11,8 @@ Debian: sudo apt install build-essential zip curl -y
 
 Client installation:
 ```
-Compile with gcc bobaclient.c -o bobaclient
-Place generated binary in /usr/local/bin
+Compile with "gcc bobaclient.c -o bobaclient"
+Place generated binary in "/usr/local/bin"
 Start running commands!
 ```
 

@@ -1,6 +1,13 @@
 # bobaclient
-
+```
 Dependencies: zip and curl\
+```
+
+```
+sudo apt install zip curl -y
+```
+
+
 bobaclient binary should be placed in PATH to be executed.
 
 A simple and lightweight client for bobashare.\

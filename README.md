@@ -7,7 +7,6 @@ Dependency installation:
 
 ```
 Debian: sudo apt install build-essential zip curl -y
-
 ```
 
 Client installation:

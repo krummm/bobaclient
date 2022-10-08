@@ -1,7 +1,7 @@
 # bobaclient
 
 Dependencies: zip and curl\
-Binary should be placed in PATH to be executed.
+bobaclient binary should be placed in PATH to be executed.
 
 A simple and lightweight client for bobashare.\
 All credits to bobashare at https://bbaovanc.com/

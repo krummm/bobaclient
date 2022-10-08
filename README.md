@@ -1,6 +1,6 @@
 # bobaclient
 ```
-Dependencies: zip and curl
+Dependencies: zip curl
 ```
 
 Dependency installation:
